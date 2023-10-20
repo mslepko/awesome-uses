@@ -52,7 +52,7 @@
     "eslint-config-wesbos": "^3.2.3",
     "husky": "^8.0.3",
     "lint-staged": "^13.1.2",
-    "postcss": "^8.4.21",
+    "postcss": "^8.4.31",
     "postcss-nesting": "^11.2.1",
     "prettier": "^2.8.4"
   },
